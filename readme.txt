@@ -1,3 +1,4 @@
 第一次学习giad撒多，阿丽i第三次我修改了这里；的，
 
 第一次修改文件内容，目的是为了查看git status
+第四次是为了学习add和commit龙明白为什么add完后还要再次commit
